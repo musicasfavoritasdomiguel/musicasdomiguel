@@ -38,9 +38,10 @@ body{
     aspect-ratio: 16/9;
     float: left;
     display:flex;
-     float:top;
 }
 #centro{
+    display:flex;
+     float:top;
     margin: 0 auto 0;
     width: 100%;
 }
