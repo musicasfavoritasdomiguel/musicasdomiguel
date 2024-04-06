@@ -41,7 +41,7 @@ body{
 }
 #centro{
     display:flex;
-     float:top;
+     float:bottom;
     margin: 0 auto 0;
     width: 100%;
 }
