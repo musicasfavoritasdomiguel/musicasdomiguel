@@ -40,6 +40,7 @@ body{
     display:flex;
 }
 #centro{
+    float:top;
     margin: 0 auto 0;
     width: 100%;
 }
