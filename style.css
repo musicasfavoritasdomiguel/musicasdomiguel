@@ -33,6 +33,8 @@ body{
  img{
     aspect-ratio: 16/9;
     text-align: center;
+     max-width: 500px
+     
  }
  #ladoalado{
     aspect-ratio: 16/9;
